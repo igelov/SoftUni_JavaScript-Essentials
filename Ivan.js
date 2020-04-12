@@ -25,7 +25,7 @@ function makeHuman(name, age, gender) {
 
 let ivan = makeHuman("Ivan \n");
 ivan.hello();
-console.log(ivan);
+console.log(typeof (ivan));
 console.log("/////////\\\\\\\\\\\\\\\n");
 console.log("/////////\\\\\\\\\\\\\\\n");
 console.log("/////////\\\\\\\\\\\\\\\n");
