@@ -17,15 +17,16 @@ function makeHuman(name, age, gender) {
         name: name,
         age: age,
         gender: gender,
-        hello () {
+        hello() {
             return console.log("Hello, my name is "+name);
-        }
+        },
+        relative: 'thanks'
     };
 }
 
 let ivan = makeHuman("Ivan \n");
 ivan.hello();
-console.log(typeof (ivan));
+console.log(ivan);
 console.log("/////////\\\\\\\\\\\\\\\n");
 console.log("/////////\\\\\\\\\\\\\\\n");
 console.log("/////////\\\\\\\\\\\\\\\n");
@@ -60,14 +61,14 @@ class pet extends animal{
 }
 
 
-
+/*
 let dog = new animal("Dog", 4, "wolf");
-dog.info();
-let cat = new animal("cat", 4, "Meow");
+dog.info();*/
+let cat = new animal("cat", 4, "Mjjjeow");
 cat.speak("Peso");
 cat.sayKind();
-
+console.log(cat);/*
 let tom = new pet("Yes", 5, "cat", 4);
 tom.myDetails();
 tom.eyes = "Brown";
-console.log(tom);
+console.log(tom);*/
