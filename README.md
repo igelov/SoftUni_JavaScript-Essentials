@@ -17,4 +17,4 @@ For refernce click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScrip
 ```
 ## Authors of the presented solutions:
 
-* **[Ivan Gelov]**(https://github.com/igelov)
+* **[Ivan Gelov](https://github.com/igelov)**
