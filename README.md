@@ -12,9 +12,9 @@ This is a repository containing  solutions of the tasks and exercises of in the 
 *	[Github](https://github.com/)
 
 ## Programing Language - JavaScript
-```
-For refernce click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-```
+
+For language refernce, click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+For the official course, click [here](https://softuni.bg/trainings/2947/javascript-essentials-march-2020)
 ## Authors of the presented solutions:
 
 * **[Ivan Gelov](https://github.com/igelov)**
